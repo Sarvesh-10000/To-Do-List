@@ -28,7 +28,7 @@ An internet connection (for fetching external dependencies)
 Installation
 Clone the Repository:
 
-git clone git@github.com:abdellatif-laghjaj/todo-list.git
+git clone git@github.com:https://github.com/Sarvesh-10000/To-Do-List
 Navigate to the Project Directory:
 
 cd todo-list
